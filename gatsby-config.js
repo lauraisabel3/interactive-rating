@@ -3,5 +3,7 @@ module.exports = {
     title: `interavtive-rating`,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-emotion"]
+  plugins: [
+    "gatsby-plugin-emotion"
+  ]
 };
